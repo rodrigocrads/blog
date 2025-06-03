@@ -1,2 +1,2 @@
 # blog
-Meu blog de artigos técnicos e dicas sobre desenvolvimento de software
+Blog voltado para artigos técnicos de arquietura e desenvolvimento de software, além dicas e curiosidades sobre a área de Tecnologia.
